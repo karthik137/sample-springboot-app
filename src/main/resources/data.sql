@@ -1,0 +1,5 @@
+insert into employee(id, employee_name, email_id) values(1001, 'kirito', 'kirito@gmail.com')
+insert into employee(id, employee_name, email_id) values(2001, 'asuna', 'asuna@gmail.com')
+insert into employee(id, employee_name, email_id) values(3001, 'klien', 'klien@gmail.com')
+insert into employee(id, employee_name, email_id) values(4001, 'gator', 'gator@gmail.com')
+insert into employee(id, employee_name, email_id) values(5001, 'yuki', 'yuki@gmail.com')
